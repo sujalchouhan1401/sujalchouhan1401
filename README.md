@@ -8,13 +8,13 @@
 
 ## About Me
 
-I am a B.Tech student focused on building strong foundations in Computer Science fundamentals and Data Structures & Algorithms.  
-My goal is to secure a high-impact software engineering role by mastering core CS concepts and full-stack development.
+I'm a tech enthusiast from the Pink City, Jaipur, who enjoys connecting with new people and continuously learning from diverse experiences. Currently pursuing a degree in Computer Science Engineering at JK Lakshmipat University, I am deeply passionate about technology and committed to building a strong foundation in the field.
 
-- Strong in C, C++, and Python  
-- Exploring Full Stack Development  
-- Focused on DSA & system-level thinking  
-- Consistent problem solver and disciplined learner  
+I have hands-on experience with C, C++, and Python, and I am actively exploring Full Stack Development alongside strengthening my core Computer Science fundamentals. I enjoy solving complex problems, working on innovative projects, and staying updated with the latest advancements in technology.
+
+Beyond academics and coding, I actively engage in sports such as cricket, table tennis, football, chess, and skateboarding. I believe in hard work, adaptability, and lifelong learning, and I am always open to collaboration and meaningful discussions.
+
+Feel free to connect — always ready to contribute and help solve challenging problems.
 
 ---
 
@@ -80,3 +80,4 @@ My goal is to secure a high-impact software engineering role by mastering core C
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sujalchouhan1401&style=flat-square" />
 </div>
+
