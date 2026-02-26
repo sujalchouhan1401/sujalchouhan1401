@@ -1,64 +1,70 @@
-<h1 align="center">Hi 👋, I'm Sujal Chouhan</h1>
-<h3 align="center">B.Tech Student | Aspiring Software Engineer | UPSC 2028 Aspirant</h3>
+<h1 align="center">Sujal Chouhan</h1>
+<h3 align="center">B.Tech Student | Software Engineering Aspirant | UPSC 2028 Aspirant</h3>
 
 ---
 
-## 👨‍💻 About Me
+## Profile Summary
 
-- 🎓 2nd Year B.Tech Student
-- 💻 Skilled in Python, C, and Data Structures & Algorithms
-- 📚 Preparing for UPSC 2028
-- 🎯 Goal: High-paying software role (50-60 LPA)
-- 🌱 Currently improving problem-solving & system design skills
-- ⚡ Passionate about coding, logic building & competitive programming
+Motivated B.Tech student with strong fundamentals in Data Structures & Algorithms, C, and Python.  
+Focused on building scalable problem-solving skills and core Computer Science knowledge.  
+Long-term goal: Secure a high-impact software engineering role while preparing for UPSC 2028.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-- Python
-- C
-- SQL (Basics)
-
-### 📚 Concepts
-- Data Structures & Algorithms
-- DBMS
-- Operating Systems (Basics)
-- Computer Networks (Basics)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalchouhan1401&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalchouhan1401&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalchouhan1401&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 Current Focus
+## GitHub Statistics
 
-- Mastering DSA for placements
-- Building strong core CS fundamentals
-- Preparing roadmap for product-based companies
-- UPSC preparation (long-term goal)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalchouhan1401&show_icons=true&hide_border=true" />
+</p>
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (Add your LinkedIn link here)
-- Email: (Add your professional email here)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalchouhan1401&hide_border=true" />
+</p>
 
 ---
 
-⭐️ From [SujalChouhan](https://github.com/sujalchouhan1401)
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalchouhan1401&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalchouhan1401&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+• Advanced DSA & Problem Solving  
+• Core CS Fundamentals (DBMS, OS, CN)  
+• Placement Preparation  
+• Long-term UPSC Strategy  
+
+---
+
+## Contact
+
+LinkedIn: Add Your LinkedIn URL  
+Email: Add Your Professional Email  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujalchouhan1401&style=flat-square" />
+</p>
